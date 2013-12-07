@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-resumemac
 Version:	20081121
-Release:	5
+Release:	6
 Summary:	Plain TeX macros for resumes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/plain/contrib/resumemac
